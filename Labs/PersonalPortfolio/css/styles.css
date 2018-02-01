@@ -1,0 +1,79 @@
+body {
+    background-color:black;
+    color:gray;
+}
+
+.back {
+   float:right;
+   text-align:right; 
+   font-size: 1em;
+}
+
+header, main, nav, footer {
+    text-align:center;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-bottom: 0px;
+}
+
+.hobby {
+    color: yellow;
+}
+
+nav a {
+    padding:15px;
+    padding-bottom:4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: white;
+}
+
+.active {
+    color: lightgreen;
+}
+
+nav a:hover:not(.active) {
+    border-bottom:2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+#me, #WelcomeText {
+    float:left;
+    text-align:left;
+}
+
+footer {
+    clear:left;
+    font-size: .7em;
+    color: lightblue;
+}
+
+table {
+    margin: 0px auto;
+}
+
+#table-header {
+    background-color: #351a00;
+}
+
+.table-row {
+    background-color: #753900;
+}
+
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+
+td strong {
+    color:orange;
+}
+
+ul {
+    text-align: left;
+    padding-left: 200px;
+}
