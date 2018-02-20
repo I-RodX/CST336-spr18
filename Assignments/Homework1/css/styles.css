@@ -1,0 +1,45 @@
+body {
+    background-color:#f2f2f2;
+    color: black;
+}
+
+header, main, nav, footer {
+    text-align:center;
+}
+
+h2{
+    font-size: 1.5em;
+}
+
+nav a {
+    padding:15px;
+    padding-bottom:4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: black;
+}
+
+.active {
+    color: #007acc;
+}
+
+nav a:hover:not(.active) {
+    border-bottom:2px red solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+.textSummary{
+    text-align:left;
+}
+
+#virus{
+    float:left;
+    margin-right: 50px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    
+}
+
+
+

@@ -1,0 +1,19 @@
+[14-Feb-2018 17:48:58 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/Examples/PHP/GuessNumber.php on line 42
+[14-Feb-2018 17:48:58 UTC] PHP Stack trace:
+[14-Feb-2018 17:48:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/PHP/GuessNumber.php:0
+[14-Feb-2018 17:48:58 UTC] PHP   2. resetButton() /home/ubuntu/workspace/Examples/PHP/GuessNumber.php:71
+[14-Feb-2018 17:48:58 UTC] PHP   3. session_destroy() /home/ubuntu/workspace/Examples/PHP/GuessNumber.php:42
+[19-Feb-2018 16:31:53 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/Examples/PHP/arrays.php on line 18
+[19-Feb-2018 16:31:54 UTC] PHP Stack trace:
+[19-Feb-2018 16:31:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/PHP/arrays.php:0
+[19-Feb-2018 16:31:54 UTC] PHP   2. array_push() /home/ubuntu/workspace/Examples/PHP/arrays.php:18
+[19-Feb-2018 16:31:54 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/ubuntu/workspace/Examples/PHP/arrays.php on line 22
+[19-Feb-2018 16:31:54 UTC] PHP Stack trace:
+[19-Feb-2018 16:31:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/PHP/arrays.php:0
+[19-Feb-2018 16:33:32 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/ubuntu/workspace/Examples/PHP/arrays.php on line 18
+[19-Feb-2018 16:33:32 UTC] PHP Stack trace:
+[19-Feb-2018 16:33:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/PHP/arrays.php:0
+[19-Feb-2018 16:33:32 UTC] PHP   2. array_push() /home/ubuntu/workspace/Examples/PHP/arrays.php:18
+[19-Feb-2018 16:33:32 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/ubuntu/workspace/Examples/PHP/arrays.php on line 22
+[19-Feb-2018 16:33:32 UTC] PHP Stack trace:
+[19-Feb-2018 16:33:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/Examples/PHP/arrays.php:0
