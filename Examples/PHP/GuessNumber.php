@@ -3,8 +3,8 @@
      session_start();
      
      
-     $x = rand(1,10);
-     $y = rand(1,10);
+     $_SESSION['x'] = rand(1,10);
+     $_SESSION['y'] = rand(1,10);
 
     if ($_SERVER['REQUEST_METHOD'] == 'POST'){
          $firstNumber=$_POST["firstNumber"];
