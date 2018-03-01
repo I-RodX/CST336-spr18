@@ -1,5 +1,6 @@
 <?php
-
+    session_start();
+    include 'inc/functions.php';
 ?>
 <!DOCTYPE html>
 <html>
@@ -10,7 +11,7 @@
         </style>
     </head>
     <body>
-        <form action="result.php" method="POST">
+        <form action="index.php" method="POST">
             <div align ="center">
                 <table>
                     <tr>
@@ -51,7 +52,16 @@
             </div><br>
            <div align="center">
                 <input id="subButtom" type="submit" value="Submit" name="submit">
+                <input id="resetButtom" type="submit" value="Reset" name="reset">
            </div>
+                <?php
+                    if(isset($_POST['submit'])){
+                        checkFields();
+                    }
+                    if(isset($_POST['reset'])){
+                        session_destroy();
+                    }
+                ?>
         </form>
         <?php
             
