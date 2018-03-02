@@ -3,6 +3,12 @@ body {
     color: black;
 }
 
+.back {
+   float:right;
+   text-align:right; 
+   font-size: 1em;
+}
+
 header, main, nav{
     text-align:center;
 }

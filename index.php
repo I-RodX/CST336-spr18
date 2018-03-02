@@ -10,7 +10,8 @@
             <a href="/Labs/777">Lab2</a>
             
             <br><h1>Assignments</h1>
-            <a href="/Assignments">Assignments</a>
+            <a href="/Assignments/Homework1">Homework1</a><br>
+            <a href="/Assignments/Homework2">Homework2</a>
             
             <br><h1>Examples</h1>
             <a href="/Examples/PHP">PHP</a>
