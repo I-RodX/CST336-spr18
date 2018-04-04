@@ -1,5 +1,5 @@
 <?php
-
+    include 'inc/functions.php';
 ?>
 <!DOCTYPE html>
 <html>
@@ -8,7 +8,8 @@
     </head>
     <body>
         <?php
-            
+            setup();
+            drawCard();
         ?>
     </body>
 </html>

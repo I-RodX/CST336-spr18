@@ -7,4 +7,6 @@ composer.phar
 .c9/
 .git-real/
 .git-practice/
+.git-project/
 .git-lab3/
+.php_cs.cache

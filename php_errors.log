@@ -1,0 +1,72 @@
+[28-Mar-2018 14:42:37 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 14:42:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'techcheckout.m_students' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 25
+[28-Mar-2018 14:46:28 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 14:46:28 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'techcheckout.m_students' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 25
+[28-Mar-2018 14:46:29 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 14:46:29 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'techcheckout.m_students' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 25
+[28-Mar-2018 14:46:31 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 14:46:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'techcheckout.m_students' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 25
+[28-Mar-2018 14:46:51 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 14:46:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'techcheckout.m_students' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:25
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(25): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 25
+[28-Mar-2018 14:47:49 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 14:48:31 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:02:56 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:21:06 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:23:33 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:40:13 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:41:30 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:42:06 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:47:55 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:47:55 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'midterm.m_assignments WHERE grade IS NOT NULL ORDER BY dueDate ASC' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:88
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 88
+[28-Mar-2018 15:50:37 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:50:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'midterm.m_assignments WHERE grade IS NULL ORDER BY dueDate ASC' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:88
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 88
+[28-Mar-2018 15:50:39 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:50:39 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'midterm.m_assignments WHERE grade IS NULL ORDER BY dueDate ASC' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:88
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 88
+[28-Mar-2018 15:50:47 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:50:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'midterm.m_assignments WHERE grade IS NULL ORDER BY dueDate ASC' doesn't exist in /home/ubuntu/workspace/Exams/program2.php:88
+Stack trace:
+#0 /home/ubuntu/workspace/Exams/program2.php(88): PDOStatement->execute()
+#1 {main}
+  thrown in /home/ubuntu/workspace/Exams/program2.php on line 88
+[28-Mar-2018 15:51:20 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:52:34 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 15:53:30 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 16:10:43 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 16:12:59 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 16:13:43 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Exams/inc/functions.php on line 5
+[28-Mar-2018 16:38:28 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Midterm/inc/functions.php on line 5
+[28-Mar-2018 16:40:21 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Midterm/inc/functions.php on line 5
+[28-Mar-2018 16:43:49 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Midterm/inc/functions.php on line 5
+[28-Mar-2018 16:46:29 UTC] PHP Notice:  Undefined variable: url in /home/ubuntu/workspace/Midterm/inc/functions.php on line 5
